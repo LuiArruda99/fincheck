@@ -7,7 +7,7 @@
 
 ## Dependências
 
-Antes de tudo, é necessário estar com o servidor de backend e banco de dados  ([API](https://github.com/nataelienai/fincheck-api)) do projeto já em execução para que esta aplicação funcione.
+Antes de tudo, é necessário estar com o servidor de backend e banco de dados  ([API](https://github.com/LuiArruda99/fincheck-api-main.git) do projeto já em execução para que esta aplicação funcione.
 
 Para executar esta aplicação, você precisará de [Git](https://git-scm.com/downloads) e [Node.js](https://nodejs.org/) instalados no seu computador.
 
@@ -15,7 +15,7 @@ Para executar esta aplicação, você precisará de [Git](https://git-scm.com/do
 
 1. Abra um terminal e clone o repositório:
 ```sh
-git clone https://github.com/nataelienai/fincheck-web.git
+git clone https://github.com/LuiArruda99/fincheck.git
 ```
 
 2. Entre na pasta do repositório clonado:
